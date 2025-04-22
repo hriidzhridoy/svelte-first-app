@@ -6,7 +6,7 @@
     <div>
       <div class="px-6 py-6 text-2xl font-bold text-blue-600">My Dashboard</div>
       <nav class="mt-4 px-4">
-        <a href="/" class="block px-4 py-2 rounded hover:bg-blue-100 text-gray-700">🏠 Welcome</a>
+        <!-- <a href="/" class="block px-4 py-2 rounded hover:bg-blue-100 text-gray-700">🏠 Welcome</a> -->
         <a href="/counter" class="block px-4 py-2 rounded hover:bg-blue-100 text-gray-700">🔢 Counter</a>
         <a href="/temperature" class="block px-4 py-2 rounded hover:bg-blue-100 text-gray-700">🌡 Temperature</a>
       </nav>
